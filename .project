@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Renato Martínez - 21.776.430-0 -->
+<!-- Alonso Arriagada - 21.803.339-3 -->
+<projectDescription>
+    <name>SpookySeason</name>
+    <comment> Taller 03 de Programación Orientada a Objetos </comment>
+    <projects/>
+    <buildSpec>
+        <buildCommand>
+            <name>org.eclipse.jdt.core.javabuilder</name>
+            <arguments/>
+        </buildCommand>
+    </buildSpec>
+    <natures>
+        <nature>org.eclipse.jdt.core.javanature</nature>
+    </natures>
+</projectDescription>
